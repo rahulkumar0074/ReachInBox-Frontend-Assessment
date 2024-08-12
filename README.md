@@ -69,9 +69,3 @@ https://www.loom.com/share/b12a1f9ab67e48ae8e90efff18bccc9b?sid=6a306c49-9d1a-4b
    <h3>Delete Email</h3>
    <pre><code>DELETE {{baseurl}}/onebox/messages/:thread_id </code></pre>
 
- 
-   # Credits <br/>
-   This project was developed by ```Jahir Pendhari``` as a part of ```Masai School``` training program.
-
-   <p>Feel free to explore and integrate these endpoints into your application.</p>
-  
